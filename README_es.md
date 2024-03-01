@@ -1,4 +1,4 @@
-[🇺🇸 Read in english]()
+[🇺🇸 Read in english](https://github.com/nicobucodiguito/dechoater/blob/main/README.md)
 # Dechoater 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell) 
 
@@ -18,7 +18,7 @@ La intención de este proyecto es proveer a los usuarios/as con un set de herram
     - Presionando ```Ctrl+Alt+Enter``` cuando el ícono de **Windows PowerShell** aparezca en la barra de búsqueda.
 2. Copiar y pegar el texto dentro del recuadro debajo en la ventana de **Windows PowerShell** y presionar ```Enter```.
 ```
-irm https://raw.githubusercontent.com/nicobucodiguito/dechoater/master/dechoater.ps1 | iex
+irm https://raw.githubusercontent.com/nicobucodiguito/dechoater/main/dechoater.ps1 | iex
 ```
 3. Una ventana similar a la de la sección de **Ejemplos** debería aparecer luego de unos segundos.
 

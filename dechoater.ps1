@@ -1579,7 +1579,7 @@ $MSIgithub.Size = New-Object System.Drawing.Size(180, 22)
 $MSIgithub.Text = "GitHub Repository"
 $MSIgithub.add_click({
     # Link to the GitHub repo
-    # Example: Start-Process "https://github.com/nicobucodiguito/dechoater"
+    Start-Process "https://github.com/nicobucodiguito/dechoater/"
     # Opens link as a popup in main browser
 })
 
@@ -1604,7 +1604,7 @@ $LBdocumentation.TabStop = $true
 $LBdocumentation.Tag = "https://github.com"
 $LBdocumentation.Text = "here!"
 $LBdocumentation.add_click({
-    Start-Process "https://google.com"
+    Start-Process "https://github.com/nicobucodiguito/dechoater/blob/main/README.md"
 })
 
 

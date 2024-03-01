@@ -1,4 +1,4 @@
-[🇦🇷 Leer en Español]()
+[🇦🇷 Leer en Español](https://github.com/nicobucodiguito/dechoater/blob/main/README_es.md)
 
 # Dechoater 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell) 
@@ -19,7 +19,7 @@ The intention of this project is to provide users with a toolset for tweaking an
     - By pressing ```Ctrl+Alt+Enter``` when the **Windows PowerShell** icon shows up in the search box.
 2. Paste the following text into the **Windows PowerShell** window and press the ```Enter``` key.
 ```
-irm https://raw.githubusercontent.com/nicobucodiguito/dechoater/master/dechoater.ps1 | iex
+irm https://raw.githubusercontent.com/nicobucodiguito/dechoater/main/dechoater.ps1 | iex
 ```
 3. A window like the ones shown in the **Examples** section should pop up after a few seconds.
 
